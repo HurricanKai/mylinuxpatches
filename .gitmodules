@@ -1,5 +1,5 @@
 [submodule "linux-rt"]
-	path = ./linux-rt
+	path = linux-rt
 	url = git://git.kernel.org/pub/scm/linux/kernel/git/rt/linux-rt-devel.git
 	branch = linux-5.17.y-rt-patches
 	shallow = true
